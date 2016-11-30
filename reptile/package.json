@@ -1,0 +1,19 @@
+{
+  "name": "reptile_duxiaohong",
+  "version": "1.0.0",
+  "description": "node.js reptile demo",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/username/repository.git"
+  },
+  "keywords": [
+    "node.js",
+    "reptile"
+  ],
+  "author": "duxiaohong",
+  "license": "ISC"
+}
